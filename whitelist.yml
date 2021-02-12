@@ -5,6 +5,8 @@ ap-southeast:
 eu-central:
   - 52.29.64.156
   - 18.196.195.93
+eu-west:
+  - 18.134.20.192
 frankfurt:
   - 185.17.255.77
 us-east:
